@@ -1,0 +1,1 @@
+# Utilitários do Claude Session Viewer

@@ -1,0 +1,1 @@
+# Componentes do Claude Session Viewer
