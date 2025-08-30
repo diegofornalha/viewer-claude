@@ -1065,4 +1065,4 @@ def run_server(port=3041):
         httpd.shutdown()
 
 if __name__ == "__main__":
-    run_server()
+    run_server(3044)
